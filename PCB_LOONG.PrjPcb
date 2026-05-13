@@ -117,6 +117,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIPISEKW
 
+[GeneratedDocument1]
+DocumentPath=Schlib1.cmp
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
